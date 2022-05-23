@@ -1,0 +1,8 @@
+# Node module
+node_modules/
+
+# Build folder
+dist/
+
+# Also, ignore js file
+*.js
